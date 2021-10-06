@@ -1,0 +1,68 @@
+.head1 {
+    padding-top: 1.4rem;
+    padding-left: 3rem;
+}
+
+.head2 {
+    padding-left: 3rem;
+}
+
+.head2 span {
+    font-weight: 700;
+}
+
+#img1 {
+    margin-bottom: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#img2 {
+    margin-bottom: 20px;
+}
+
+.border1 {
+    border-left: 2px solid black;
+    padding-left: 5px;
+}
+
+.learning {
+    margin: 0px;
+}
+
+.offered {
+    margin-top: 0px;
+}
+
+.banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(rgba(81, 131, 238, 0), rgba(197, 228, 26, 0.2)), url('/images/banner/Blue_triangle_bg_image.jpg');
+    line-height: 2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 50px;
+    ;
+}
+
+.banner-text {
+    text-align: left;
+    padding: 1rem;
+}
+
+.banner-text p {
+    color: yellow;
+    font-size: 1.7rem;
+    margin: auto;
+}
+
+.banner-text h5 {
+    color: white;
+    line-height: 5rem;
+    text-style: italic;
+}
+
+.banner-text h5 {}
